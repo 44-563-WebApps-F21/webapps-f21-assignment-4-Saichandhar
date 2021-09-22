@@ -1,0 +1,22 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    margin: 18px;
+}
+
+.stage-direction {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    color: black;
+    background-color: rgb(216, 210, 250);
+}
+
+.stage-direction:hover {
+    background-color: rgb(43, 255, 0);
+    color: rgb(251, 255, 0);
+}
+.name {
+    font-size: 26;
+    color: rgb(19, 16, 14);
+}
