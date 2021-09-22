@@ -20,3 +20,22 @@
     font-size: 26;
     color: rgb(19, 16, 14);
 }
+
+table {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px;
+  }
+  
+  td, th {
+    border: 3px solid #141313;
+    text-align: left;
+    padding: 20px;
+    margin: auto;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
