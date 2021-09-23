@@ -1,7 +1,7 @@
 .speech {
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-    color: black;
+    color: rgba(2, 226, 0, 0.884);
     margin: 18px;
 }
 
@@ -20,6 +20,11 @@
     font-size: 26;
     color: rgb(19, 16, 14);
 }
+.name:hover{
+  text-shadow: 2px 2px 5px rgb(119, 0, 255);
+  border: 1px solid rgb(255, 0, 0);
+}
+
 
 table {
     font-family: 'Times New Roman', Times, serif;
